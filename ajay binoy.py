@@ -28,7 +28,6 @@ distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 print(f"The distance between Ajay's house and Chandru's house is {distance:.2f}")
 '''
 
-import math
 
 # Read inputs
 x1 = int(input())  # First x-coordinate
